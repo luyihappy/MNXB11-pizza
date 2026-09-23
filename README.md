@@ -1,2 +1,2 @@
-# MNXB1-pizza
+# MNXB11-pizza
 Repository for Homework 2
